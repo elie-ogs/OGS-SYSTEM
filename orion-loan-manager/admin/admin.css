@@ -1,0 +1,8 @@
+.olm-flex{display:flex;gap:24px;align-items:flex-start}
+.olm-form{flex:0 0 420px;background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:16px}
+.olm-list{flex:1}
+.olm-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:16px 0}
+.card{background:#fff;padding:16px;border-radius:12px;border:1px solid #e2e8f0}
+.card .k{font-size:12px;color:#64748b;text-transform:uppercase;letter-spacing:.06em}
+.card .v{font-size:22px;font-weight:700;margin-top:6px}
+table.form-table th{width:160px}
